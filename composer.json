@@ -1,4 +1,11 @@
 {
     "name": "akai/magento2-travis-ci-scripts",
-    "description": "Magento 2 Travis CI helper scripts"
+    "description": "Magento 2 Travis CI helper scripts",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Ammar K.",
+            "homepage": "https://api.github.com/user/4558603"
+        }
+    ]
 }

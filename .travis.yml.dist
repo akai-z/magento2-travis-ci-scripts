@@ -11,8 +11,8 @@ env:
   global:
     - VENDOR_NAME=<MY_VENDOR_NAME>
     - MODULE_NAME=<MY_MODULE_NAME>
-    - DB=magento2_db
-    - MAGENTO_DIR=magento2
+    - DB=magento_db
+    - MAGENTO_DIR=magento
     - TRAVIS_SCRIPTS_REPOSITORY=https://github.com/akai-z/magento2-travis-ci-scripts.git
     - TRAVIS_SCRIPTS_DIR=travis_scripts
     - TRAVIS_SCRIPTS_PATH=${TRAVIS_SCRIPTS_DIR}/scripts

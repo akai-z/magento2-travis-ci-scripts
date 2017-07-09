@@ -20,7 +20,7 @@ used to build and test software projects hosted at GitHub.
 
 ## How to use?
 
-* Use the provided sample configuration file (`.travis.yml.sample`) in this package,  
+* Use the provided configuration distribution file (`.travis.yml.dist`) in this package,  
 to create your own configuration file.
 * In configuration file set your vendor (`VENDOR_NAME`) and module (`MODULE_NAME`) names.
 * You could add your own test scripts under `script` step.
